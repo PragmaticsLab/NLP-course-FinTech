@@ -10,5 +10,5 @@ Week 2
 * Quiz: https://forms.gle/DiS9rBskgxXxD6Hy6
 
 Week 3
-
+* Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/3/3_classification.ipynb)
 * Quiz: https://forms.gle/mowmk9LgLG1yyLrh7
