@@ -12,3 +12,6 @@ Week 2
 Week 3
 * Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/3/3_classification.ipynb)
 * Quiz: https://forms.gle/mowmk9LgLG1yyLrh7
+
+Week 5
+* Topic Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/5/5_Keywords_and_Topic%20_Modelling.ipynb)
