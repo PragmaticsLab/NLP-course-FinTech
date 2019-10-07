@@ -16,5 +16,5 @@ Week 3
 Week 5
 * Topic Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/5/5_Keywords_and_Topic%20_Modelling.ipynb)
 
-Week 5
+Week 6
 * Seq2seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/6/6_seq2seq.ipynb)
