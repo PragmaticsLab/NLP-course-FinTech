@@ -18,3 +18,7 @@ Week 5
 
 Week 6
 * Seq2seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/6/6_seq2seq.ipynb)
+
+Week 7
+* AIJ Baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/7/Baseline_AIJ.ipynb)
+
