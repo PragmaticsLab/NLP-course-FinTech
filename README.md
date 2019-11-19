@@ -22,6 +22,6 @@ Week 6
 Week 7
 * AIJ Baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/7/Baseline_AIJ.ipynb)
 
-Week 7
+Week 8
 * Syntax [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/8/sem8_syntax.ipynb)
 
